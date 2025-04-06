@@ -1,4 +1,4 @@
-Date,HomeTeam,AwayTeam,FTR,B365H,B365D,B365A
+Date,HomeTeam,AwayTeam,FTR,HomeOdds,DrawOdds,AwayOdds
 22/08/15,Lazio,Bologna,H,1.5,4.2,7.0
 22/08/15,Verona,Roma,D,5.5,3.75,1.67
 23/08/15,Empoli,Chievo,A,2.15,3.25,3.6
@@ -379,4 +379,3 @@ Date,HomeTeam,AwayTeam,FTR,B365H,B365D,B365A
 15/05/16,Lazio,Fiorentina,A,2.1,3.4,3.5
 15/05/16,Palermo,Verona,H,1.2,7.0,13.0
 15/05/16,Udinese,Carpi,A,2.3,3.4,3.1
-,,,,,,

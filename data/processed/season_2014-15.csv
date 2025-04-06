@@ -1,4 +1,4 @@
-Date,HomeTeam,AwayTeam,FTR,B365H,B365D,B365A
+Date,HomeTeam,AwayTeam,FTR,HomeOdds,DrawOdds,AwayOdds
 30/08/14,Chievo,Juventus,A,7.0,4.0,1.5
 30/08/14,Roma,Fiorentina,H,1.67,3.8,5.0
 31/08/14,Atalanta,Verona,D,2.05,3.4,3.6
@@ -379,4 +379,3 @@ Date,HomeTeam,AwayTeam,FTR,B365H,B365D,B365A
 31/05/15,Sampdoria,Parma,D,1.36,5.25,8.0
 31/05/15,Sassuolo,Genoa,H,2.9,3.5,2.4
 31/05/15,Torino,Cesena,H,1.36,5.0,8.5
-,,,,,,
