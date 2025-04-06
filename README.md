@@ -40,6 +40,11 @@ This project is for educational purposes only and does not constitute financial 
     ```bash
     pip install -r requirements.txt
     ```
+3. Run the notebooks in order:
+    ```bash
+    jupyter lab
+    ```
+   Open the provided Jupyter notebooks and execute the cells sequentially to reproduce the analysis and simulations.
 
 ## License
 
